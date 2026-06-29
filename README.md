@@ -1,1 +1,1 @@
-# SHOTpy-Tutorial-3-Trim-Loss-Problem-
+# SHOTpy-Tutorial-
